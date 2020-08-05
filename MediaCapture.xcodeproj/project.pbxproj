@@ -56,9 +56,9 @@
 			children = (
 				14ABEA0824D31CF100DB4DDB /* AppDelegate.swift */,
 				14ABEA0A24D31CF100DB4DDB /* ViewController.swift */,
-				14ABEA0C24D31CF100DB4DDB /* Main.storyboard */,
 				14ABEA0F24D31CF200DB4DDB /* Assets.xcassets */,
 				14ABEA1124D31CF200DB4DDB /* LaunchScreen.storyboard */,
+				14ABEA0C24D31CF100DB4DDB /* Main.storyboard */,
 				14ABEA1424D31CF200DB4DDB /* Info.plist */,
 			);
 			path = MediaCapture;
